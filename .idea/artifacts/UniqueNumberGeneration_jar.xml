@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="UniqueNumberGeneration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UniqueNumberGeneration_jar</output-path>
+    <root id="archive" name="UniqueNumberGeneration.jar">
+      <element id="module-output" name="UniqueNumberGeneration" />
+    </root>
+  </artifact>
+</component>
